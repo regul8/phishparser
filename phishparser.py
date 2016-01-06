@@ -1,5 +1,5 @@
-__author__ = 'Jeremy Trinka'
-# -- PhishParser 1.0 by Jeremy Trinka
+__author__ = 'regul8'
+# -- PhishParser 1.0 by regul8
 # -- Parses GET requests to run statistics against
 # -- a provided spreadsheet for phishing
 # -- exercises.  Used in conjunction with IIS and
